@@ -1,0 +1,17 @@
+body, html, #root, .App {
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  position: relative;
+  overflow: hidden;
+}
+
+form {
+  margin: 1rem;
+}
+
+textarea, button {
+  display: block;
+}
