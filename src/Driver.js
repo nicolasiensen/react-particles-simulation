@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './Driver.css';
 
 class Driver extends Component {
   render() {
